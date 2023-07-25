@@ -1,0 +1,159 @@
+.main{
+  background-image: url('https://ggie.berkeley.edu/wp-content/uploads/2019/09/Listening_to_Music_Mindfully_1024x512.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 450%;
+}
+.login-page {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .company-section {
+  
+    width:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  } 
+  
+  .login1-page {
+    display: flex;
+    width:65%;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffffff28;
+    background-image: url('file:///C:/Users/Harish/Downloads/mucify.png');
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: -50%;
+    image-rendering: auto;
+  }
+  
+  .login-container {
+    background-color: rgba(25, 185, 177, 0.291);
+    padding: 5px 50px 90px;
+    
+    height: 510px;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    grid-row: inherit;
+  }
+  
+  h2 {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+  }
+  
+  button {
+    background-color: #52cfbac1;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width:300px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0000ff;
+  }
+  
+  .policy{
+    font-weight:lighter;
+    margin-top: -20px;
+    margin-left: -25px;
+  }
+  .box{
+    display: flex;
+  }
+  .box1{
+
+    height: 15px;
+    width: 10%;
+  }
+  
+  .rights{
+    font-weight: initial;
+    color: aliceblue;
+  
+  }
+  .music{
+    color:#ffffffd2
+  }
+  .footer{
+  
+    color:black;
+    height:20px;
+    margin-top : 750px;
+    margin-left: -250px;
+  }
+  
+  .continue{
+    background-color: #52cfbac1;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width:300px;
+    cursor: pointer;
+  }
+  
+  .continue:hover {
+    background-color: #3f4040ce;
+  }
+  
+  /* .newbutton{
+    margin-top: 600px;
+    margin-left: -330px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    font-size: 16px;
+    width:300px;
+    cursor: pointer;
+  } */
+  a:link,a:visited{
+    color:white;
+    text-decoration: none;
+  }
+  .newuser{
+    margin-top: 10px; 
+  }
+  
+  .icon{
+    color: aliceblue;
+    margin-left: 10px;
+  }
+  .Title{
+    color: #f1f7ff;
+    margin-left: 100px;
+  }
+ .Subtitle{
+    color: rgb(178, 206, 230);
+    text-align: initial;
+    margin-bottom: -5%;
+    margin-left: -90px;
+    font-weight: initial;
+    font-size: small;
+ }
+ .text1{
+  font-size: smaller;
+  height: 1px;
+  
+ }

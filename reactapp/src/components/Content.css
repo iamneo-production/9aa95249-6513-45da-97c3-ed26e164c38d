@@ -1,0 +1,10 @@
+.imagelist{
+    display: grid;
+    grid-template-columns: auto auto auto;
+
+    margin-left: 50px;
+    }
+  
+    img{
+      height: 10%;
+    }

@@ -1,0 +1,47 @@
+.Bt1{
+    size: 50px;
+}
+.popup-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+  
+    justify-content: center;
+  }
+  
+  .popup-content {
+    background-color: #fff;
+    padding:10px 10px 10px 30px;
+    width: 20%;
+    border-radius: 25px;
+  }
+  
+  .popup-content h4 {
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+  
+  .popup-content form {
+    margin-bottom: 10px;
+  }
+  
+  .popup-content input {
+    width: 90%;
+    padding: 7px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .popup-content button {
+    /* margin-right: 10px; */
+    margin-left: 40px;
+    border-radius: 30px;
+    width: 30%;
+    background-color: rgba(0, 0, 0, 0.689);
+    color: white;
+  }
